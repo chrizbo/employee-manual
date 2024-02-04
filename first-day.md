@@ -1,6 +1,6 @@
 # Your first day
 
-![Broken image](assets/broken-image.png)
+![Broken image](broken-image.png)
 
 :city_sunrise: :sparkles: \[High quality photo of people welcoming you to the organization. Include five people of varying cultures and ethnicities (including one of the current employee), mildly smiling. Standing in front of the office near the edge of the forest in a peacetime office stance. Do not include likenesses of famous people or those who have previously worked for the organization. Panoramic size.\]
 
