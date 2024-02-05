@@ -35,6 +35,13 @@ This section is designed to ensure that new employees feel welcomed and empowere
 * Earbud Usage: Guidelines on how to use the provided earbud or integrate your personal one with our systems. IT requires a fresh neural calibration when pairing your own (otherwise it is automatically done with the one from us). 
 Hat Adjustment and Exchange: Steps to adjust your Imagine Harder hat for comfort. If the size is wrong, instructions on how to exchange it at a local swag locker. [🗣see controversy](#)
 
+## First Day Induction and Orientation
+
+* Orientation Date: this is the first day you show up (virtually or in person) to the offices. You decide when that first day is.
+* Orientation Schedule: Detailed timetable of your first day, including meet-and-greets with team members, your twins, and other organization agents. 
+* Introduction to the Organization: An overview of our culture, goals, and your role in achieving them.
+* Introduction to you: Create a memory capture of how you are doing getting everything set up and a bit about yourself. Don’t forget to ask your randomizer for a question to answer! [📝 see MemoMore discussions](#)
+
 --- Start MemoMore content ---
 
 MemoMore discussions ↗:
@@ -46,3 +53,43 @@ MemoMore discussions ↗:
 Warning: all MemoMore discussions are not protected under your [employment agreement](#) and are handled through [MemoMore ToS](#). Uninstall this plug-in to be compliant.
 
 --- End MemoMore content ---
+
+## Understanding the First Day Machete
+
+* Symbolic Importance: An explanation of the machete as a symbol of key history of the organization. We should always strive to “cut fast, cut first” when it comes to anything.
+* Safety Guidelines: Important safety measures and storage advice for your First Day Machete. 💬see internal discussion 
+
+Enter your machete’s serial number to have it added to your profile:
+
+XXXX-XX-XXXXX-XX
+
+## FAQ
+
+What if I can’t find the office?
+
+## More information
+
+Contact our HR team for assistance with setting up your items or any other first day queries.
+
+Instructions on how to access the online swag locker for exchanges or additional supplies.
+
+Links to Tools and Other Websites:
+* [Workspace Setup Guide](#)
+* [Swag Locker Portal](#)
+
+Other support links:
+* IT Support for Technical Assistance
+* HR Support for Orientation Queries
+* Feedback or Changes on what was generated here
+
+| ✨ This page has been made for [English speaking] [Global] [new joiners] that are part of the [US Union 23 Imagination Specialists]. |
+|:----|
+
+## 👮 Regulatory Warnings/Disclaimers:
+
+* Adherence to safety protocols is mandatory while using the First Day Machete.
+* All company-provided equipment is intended for work-related use only.
+* Regulated by and adhering to the Digital Twin and Privacy Act.
+
+
+
