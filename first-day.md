@@ -49,6 +49,7 @@ MemoMore discussions ↗:
 * [First impressions aren’t what they seem with your digital twins](#)
 * [Digital twin disagreed with my intro video and said it wasn’t authentic!](#)
 * [My twin is better than me?!](#)
+* [Management agent getting me in trouble alread](#)
 
 Warning: all MemoMore discussions are not protected under your [employment agreement](#) and are handled through [MemoMore ToS](#). Uninstall this plug-in to be compliant.
 
